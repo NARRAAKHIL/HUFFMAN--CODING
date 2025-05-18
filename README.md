@@ -28,7 +28,7 @@ print the characters and its huffmancode.
 # expt-11-huffman coding
 
 # Step 1: Get the input string
-input_string = "narra akhil"  # Example input string
+input_string = "mani sri latha"  # Example input string
 # Step 2: Calculate frequency of each character in the input string
 frequency = {}
 for char in input_string:
@@ -72,9 +72,12 @@ for char, code in huffman_codes.items():
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![Screenshot 2025-05-17 111808](https://github.com/user-attachments/assets/fbd4220c-d84b-4071-a052-8682a8dcb1b4)
 
-![Screenshot 2025-05-17 111823](https://github.com/user-attachments/assets/9829740a-4019-485a-ab79-e127e51a766a)
+![Screenshot 2025-05-18 223040](https://github.com/user-attachments/assets/796437e1-eb94-4585-ba4e-bbc9ad323196)
+
+
+![Screenshot 2025-05-17 111808](https://github.com/user-attachments/assets/5eb099a0-0e98-48e5-bae2-59586c65c15e)
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
